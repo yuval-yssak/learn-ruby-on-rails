@@ -44,6 +44,8 @@ gem "bootsnap", require: false
 
 gem 'erb-formatter'
 
+gem 'devise', '~> 4.8', '>= 4.8.1'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
